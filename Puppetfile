@@ -28,3 +28,5 @@ mod 'othalla-packages',
   :git => 'https://github.com/othalla/puppet-packages.git'
 mod 'puppet-nextcloud',
   :git => 'https://github.com/othalla/puppet-nextcloud.git'
+mod 'puppet-nextcloud',
+  :git => 'https://github.com/othalla/puppet-nextcloud.git'
