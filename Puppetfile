@@ -17,6 +17,7 @@ mod 'camptocamp-openssl', '1.10.0'
 mod 'camptocamp-openssl', '1.10.0'
 mod 'camptocamp-openssl', '1.10.0'
 mod 'camptocamp-openssl', '1.10.0'
+mod 'camptocamp-openssl', '1.10.0'
 mod 'puppet-henrylf',
   :git => 'https://github.com/othalla/puppet-henrylf.git'
 mod 'puppet-profiles',
