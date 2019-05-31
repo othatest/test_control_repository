@@ -12,6 +12,7 @@ mod 'saz/ssh', '3.0.1'
 mod 'saz/locales', '2.5.0'
 mod 'aboe/chrony', '0.2.0'
 mod 'camptocamp-openssl', '1.10.0'
+mod 'floflo'
 mod 'puppet-henrylf',
   :git => 'https://github.com/othalla/puppet-henrylf.git'
 mod 'puppet-profiles',
