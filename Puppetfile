@@ -26,3 +26,5 @@ mod 'puppet-tautulli',
   :git => 'https://github.com/othalla/puppet-tautulli.git'
 mod 'othalla-packages',
   :git => 'https://github.com/othalla/puppet-packages.git'
+mod 'othalla-packages',
+  :git => 'https://github.com/othalla/puppet-packages.git'
