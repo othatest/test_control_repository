@@ -28,3 +28,5 @@ mod 'othalla-packages',
   :git => 'https://github.com/othalla/puppet-packages.git'
 mod 'othalla-packages',
   :git => 'https://github.com/othalla/puppet-packages.git'
+mod 'newmod',
+  :git => 'http://newwwww/module'
