@@ -32,3 +32,5 @@ mod 'newmod',
   :git => 'http://newwwww/module'
 mod 'puppet-tttttest',
   :git => 'https://some/url/module'
+mod 'puppet-tttttestcustom',
+  :git => 'https://some/url/module'
