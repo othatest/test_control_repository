@@ -34,3 +34,6 @@ mod 'puppet-tttttest',
   :git => 'https://some/url/module'
 mod 'puppet-tttttestcustom',
   :git => 'https://some/url/module'
+mod 'puppet-tttttestcustomlastnew',
+  :git => 'https://some/url/module',
+  :tag => '1.1.11'
