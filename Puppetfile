@@ -37,3 +37,5 @@ mod 'puppet-tttttestcustom',
 mod 'puppet-tttttestcustomlastnew',
   :git => 'https://some/url/module',
   :tag => '1.1.11'
+mod 'fakename',
+  :git => 'https://lol'
